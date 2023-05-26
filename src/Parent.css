@@ -1,0 +1,9 @@
+.parent{
+  background-color: rgb(86, 167, 90);
+  width: 400px;
+  height: 400px;
+display: flex;
+justify-content: center;
+align-items: center;
+font-size: larger;
+}
